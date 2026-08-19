@@ -1,7 +1,7 @@
 # Implicit Lur'e MPC
 
 Numerical case studies of the contractivity of regularized MPC via implicit Lur'e analysis.
-The paper is posted on [ArXiv](not_yet).
+The paper is posted on [ArXiv](https://arxiv.org/abs/2607.00383v1).
 
 ## Development Environment
 Python 3.13.13
